@@ -1,0 +1,5 @@
+0xf339fba2	ssel_open	/home/syseng/v2/main	EXPORT_SYMBOL
+0xe13e800a	ssel_read	/home/syseng/v2/main	EXPORT_SYMBOL
+0xe2757901	ssel_write	/home/syseng/v2/main	EXPORT_SYMBOL
+0x18772ce8	ssel_release	/home/syseng/v2/main	EXPORT_SYMBOL
+0xe3450e90	ssel_init	/home/syseng/v2/main	EXPORT_SYMBOL
